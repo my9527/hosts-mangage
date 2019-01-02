@@ -1,4 +1,5 @@
 ### 说明
+ *** 备份原有的host
  - install
     ``` npm install host-m ```
  - useage
